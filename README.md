@@ -11,9 +11,13 @@ requirement to use and code
 HardWare used:
 
 1.Servo Motor
+
 2.Ultrasonic Sensor
+
 3.Led
+
 4.IR SENSOR
+
 5.STC89 DEMO Board 
 
 ![image](https://github.com/AirulAiman/Smart-bin-STC89C52RC/assets/136466706/27ede092-37bf-4f29-9aa3-a2f2c447458e)
